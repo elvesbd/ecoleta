@@ -4,7 +4,7 @@
 
 
 ## ✔ Sobre
-Surfstore, uma aplicação de compra e venda de produtos para os amantes do surf desenvolvido no curso **LaunchBase** da Rocketseat.
+Ecoleta é uma aplicação para cadastro de pontos de coleta de materiais reciclaveis desenvolvido no curso **NLW** da Rocketseat.
 
 ---
 
